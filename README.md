@@ -1,4 +1,4 @@
-# Java-Snake-Game
+# Java Snake Game
 A complete java snake game with many features!
 
 ## Sample
